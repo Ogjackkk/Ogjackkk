@@ -3,7 +3,7 @@
 ### 🧠 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,java,js,html,css,androidstudio,supabase,sqlite,mysql,c#,json, vscode" />
+  <img src="https://skillicons.dev/icons?i=react,java,js,html,css,androidstudio,supabase,sqlite,mysql,c#,json,vscode" />
 </p>
 
 
